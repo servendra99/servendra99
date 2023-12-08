@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi , I "m Servendra Tiwari . <br>
+ Hi , I "m Servendra Tiwari 
+ SDE at Trumsy. <br>
 
 
 ## 🌐 Socials:
