@@ -1,6 +1,7 @@
 # 💫 About Me:
- Hi , I "m Servendra Tiwari 
+ Hi , I "m Servendra Tiwari <br>
  SDE at Trumsy. <br>
+ Graduated from BIET 
 
 
 ## 🌐 Socials:
